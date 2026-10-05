@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import dotenv from "dotenv";
 import { mkdir } from "fs/promises";
 import { join, resolve } from "path";
